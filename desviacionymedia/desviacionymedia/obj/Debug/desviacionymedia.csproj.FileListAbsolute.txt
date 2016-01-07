@@ -1,0 +1,16 @@
+C:\Users\FIE\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe.config
+C:\Users\FIE\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe
+C:\Users\FIE\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.pdb
+C:\Users\FIE\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.exe
+C:\Users\FIE\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.pdb
+C:\Users\hernan\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe.config
+C:\Users\hernan\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.exe
+C:\Users\hernan\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.pdb
+C:\Users\hernan\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe
+C:\Users\hernan\Desktop\Programa en Pareja\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.pdb
+E:\HERNAN\6 A\Ingeniería de Software\Actividades en Clase\HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe.config
+E:\HERNAN\6 A\Ingeniería de Software\Actividades en Clase\HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.exe
+E:\HERNAN\6 A\Ingeniería de Software\Actividades en Clase\HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.pdb
+E:\HERNAN\6 A\6.Ingeniería de Software\Actividades en Clase\11.HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\bin\Debug\desviacionymedia.exe.config
+E:\HERNAN\6 A\6.Ingeniería de Software\Actividades en Clase\11.HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.exe
+E:\HERNAN\6 A\6.Ingeniería de Software\Actividades en Clase\11.HernanPinos,AlexMacasActividad11\desviacionymedia\desviacionymedia\obj\Debug\desviacionymedia.pdb
